@@ -1,0 +1,5 @@
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\DataContract\bin\Debug\DataContract.dll
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\DataContract\bin\Debug\DataContract.pdb
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\DataContract\obj\Debug\DataContract.dll
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\DataContract\obj\Debug\DataContract.pdb
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\DataContract\obj\Debug\DataContracts.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\bin\Debug\Data.dll.config
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\bin\Debug\Data.dll
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\bin\Debug\Data.pdb
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\bin\Debug\Dapper.dll
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\bin\Debug\Model.dll
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\bin\Debug\Model.pdb
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\bin\Debug\Dapper.xml
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\obj\Debug\Data.csprojAssemblyReference.cache
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\obj\Debug\Data.dll
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Data\obj\Debug\Data.pdb

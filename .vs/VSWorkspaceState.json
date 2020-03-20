@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MultiplayerCardGame",
+    "\\MultiplayerCardGame\\WebGameClient",
+    "\\MultiplayerCardGame\\WebGameClient\\App_Start"
+  ],
+  "SelectedNode": "\\MultiplayerCardGame\\WebGameClient\\App_Start\\RouteConfig.cs",
+  "PreviewInSolutionExplorer": false
+}

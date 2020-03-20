@@ -1,0 +1,5 @@
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Model\bin\Debug\Model.dll
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Model\bin\Debug\Model.pdb
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Model\obj\Debug\Model.dll
+C:\Datamatiker\3.Sem\Projekt\Code\MultiplayerCardGame\Model\obj\Debug\Model.pdb
